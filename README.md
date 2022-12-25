@@ -5,4 +5,4 @@ The user inputs any image, and the Python code turns the image into a black and 
 
 Eventually, after many iterations, the converged probability distribution is plotted, and the image will successfully be recreated from pure randomness. 
 
-The more pixelated a image is, the more iterations will be needed to get a detailed enough image. 
+The more pixelated a image is, the more iterations will be needed to get a detailed enough image. The code has been published in a Jupyter Notebook.

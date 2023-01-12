@@ -5,7 +5,7 @@ The user inputs any image, and the Python code turns the image into a black and 
 
 Eventually, after many iterations, the converged probability distribution is plotted, and the image will successfully be recreated from pure randomness. See the images below:
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/121384892/212169187-cb618ca2-cb5e-4d03-a1a2-2d5314b403b6.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/121384892/212169205-b3322734-977e-4be7-9b76-0622dc8c1c66.png" width="100" /> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/121384892/212169187-cb618ca2-cb5e-4d03-a1a2-2d5314b403b6.png" width="250" />
+  <img src="https://user-images.githubusercontent.com/121384892/212169205-b3322734-977e-4be7-9b76-0622dc8c1c66.png" width="250" /> 
 </p>

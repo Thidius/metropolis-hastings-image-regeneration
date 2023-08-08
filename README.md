@@ -9,7 +9,7 @@ The code regenerates a black and white image of any image input using Metropolis
 ## Usage
 
 1. Place the desired input image (`image.png`) in the directory specified in the code: `C:\Users\username\Desktop\image.png`. Replace `username` with your actual username.
-2. Open the `image_to_matrix.py` script and run it using Python.
+2. Open the `MHA.py` script and run it using Python.
 
 The script will perform the following steps:
 1. Read the input image.
